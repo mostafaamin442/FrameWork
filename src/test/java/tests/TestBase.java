@@ -23,6 +23,6 @@ public class TestBase {
 			driver = new ChromeDriver();
 		}
 		
-		driver.navigate().to("https://the-internet.herokuapp.com/forgot_password"); 
+		driver.navigate().to("https://www.nopcommerce.com/en/register?returnUrl=%2Fen%2Fdemo"); 
 	}
 }

@@ -14,8 +14,7 @@ public class LoginTest extends TestBase {
 
 		object = new LoginPage(driver); 
 		Thread.sleep(5000);
-		object.Login("mostafaamin442@gmail.com"); 
-		driver.navigate().back();
+		object.Login("mostafa", "mostafa", "mostafaamin442@gmail.com", "mostafaamin442@gmail.com", "mostafa", "12345678", "12345678", "mostafa");
 	} 
 
 

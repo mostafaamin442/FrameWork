@@ -5,7 +5,7 @@
     <classes>
       <class name="tests.LoginTest">
         <methods>
-          <include name="Invalid"/>
+          <include name="LoginTo"/>
           <include name="StartDriver"/>
         </methods>
       </class> <!-- tests.LoginTest -->
